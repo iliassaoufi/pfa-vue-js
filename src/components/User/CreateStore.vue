@@ -124,7 +124,7 @@ export default {
 </script>
 <style scoped>
 .contact-form {
-  background-color: #fff;
+  background-color: #efefef;
 }
 .custom-file {
   margin-bottom: 30px;
